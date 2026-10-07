@@ -1,0 +1,14 @@
+# regenerable: sample libraries (see LIBS.md), venv, renders, videos
+libs/
+.venv/
+__pycache__/
+out*/
+*/out/
+album/video/
+album/test/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.mp4
+*.log
